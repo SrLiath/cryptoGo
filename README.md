@@ -26,3 +26,7 @@ This Go application provides a simple graphical user interface \\(GUI\\) for enc
    ```
 
 -- Or just Download the release option
+
+![image](https://github.com/user-attachments/assets/9931b815-39d5-49bb-baa4-567cc1bc7c4e)
+![image](https://github.com/user-attachments/assets/8d01a535-bff5-4980-81f8-1da55f3fa602)
+![image](https://github.com/user-attachments/assets/a8763fce-5dbc-4c87-8dc3-357b55be24e8)
